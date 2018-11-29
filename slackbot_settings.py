@@ -1,0 +1,3 @@
+API_TOKEN = "xoxb-480581076661-480582783813-4OucNwwjtO7EvpC2Bi9VGmdA"
+DEFAULT_REPLY = "出直してください"
+PLUGINS = ["plugins"]
